@@ -8,7 +8,6 @@ metadata:
     tekton.dev/platforms: 'linux/amd64,linux/s390x,linux/ppc64le,linux/arm64'
     tekton.dev/tags: git
   name: git-clone-custom
-  namespace: gitea
   labels:
     app.kubernetes.io/version: '0.4'
     operator.tekton.dev/provider-type: redhat
