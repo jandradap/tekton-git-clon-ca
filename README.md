@@ -1,4 +1,4 @@
-# tekton-git-clon-ca
+# tekton-git-clone-ca
 
 Openshift git-clone clustertask custom with self-signed CA.
 
